@@ -1,0 +1,4 @@
+https://nbviewer.org/github/kramachandrashenoy/Brain-Tumor-detection/blob/main/Original.ipynb
+
+
+https://nbviewer.org/github/kramachandrashenoy/Brain-Tumor-detection/blob/main/Augmented.ipynb
